@@ -1,0 +1,43 @@
+.center {
+	text-align: center;
+	font-size: 72px;
+	background-color: orange;
+}
+
+.centerpic {
+	margin-right: 100px;
+	margin-left: 225px;
+}
+.about {
+	background-color: yellow;
+	font-size: 28px;
+	margin-left: 225px;
+	padding-bottom: 10px;
+	width: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.contact {
+	background-color: yellow;
+	font-size: 28px;
+	margin-left: 225px;
+	padding-top: 5px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+div {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: yellow;
+}
+
+.resize {
+	width: 325px;
+	height: 225px;
+}
+
+#font {
+	font-size: 32px; 
+}
