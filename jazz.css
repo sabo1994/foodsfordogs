@@ -1,0 +1,64 @@
+.resize {
+	margin-top: 0px;
+	margin-left: 190px;
+	width: 600px;
+	height: 400px;
+	border: 10px solid;
+	border-color: yellow;
+}
+
+h1 {
+	background-color: #00FFFF;
+	margin-top: 5px;
+	text-align: center;
+	font-size: 72px;
+	width: 1100px;
+}
+
+body {
+	background-color: #ff8000;
+}
+
+div {
+	background-color: yellow;
+	margin-right: 750px;
+	padding: 10px;
+}
+
+.about {
+	margin-top: 25px;
+	font-size: 36px;
+	text-decoration: underline;
+	margin-left: 60px;
+}
+
+.profile {
+	margin-top: 25px;
+	font-size: 28px;
+}
+
+#food {
+	font-size: 48px;
+}
+
+#donate {
+	text-align: center;
+}
+
+.button {
+	display: block;
+	border-radius: 50px;
+	width: 250px;
+	text-align: center;
+	text-decoration: none;
+	background-color: red;
+	color: white;
+	font-size: 56px;
+	padding: 25px;
+	margin-left: 350px;
+
+}
+
+.button:hover {
+	background-color: darkred;
+}

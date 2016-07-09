@@ -1,0 +1,87 @@
+h1 {
+	background-color: #00FFFF;
+	margin-top: 5px;
+	text-align: center;
+	font-size: 72px;
+	width: 1100px;
+	font-family: verdana;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+.happyjoey {
+	width: 425px;
+	height: 550px;
+	margin-left: 20px;
+	float: left;
+	margin-right: 30px;
+	border: 10px solid;
+	border-color: yellow;
+}
+
+.text {
+	float: left;
+	margin-top: 10px;
+	font-size: 28px;
+	margin-right: 10px;
+	padding-right: 60px;
+	font-family: comic sans ms;
+	line-height: 150%;
+}
+
+.resize{
+	margin-top: 20px;
+	padding-top: 50px;
+	padding: 5px;
+	width: 125px;
+	height: 100px;
+	margin-right: 0px;
+}
+
+body {
+	background-color: #ff8000;
+}
+
+.home {
+	float: right;
+	font-size: 32px;
+	padding: 25px;
+	background-color: #00FFFF;
+	margin-right: 40px;
+}
+ize: 36px;
+	text-decoration: underline;
+	margin-left: 60px;
+}
+
+.profile {
+	margin-top: 25px;
+	font-size: 28px;
+}
+
+#food {
+	font-size: 48px;
+}
+
+#donate {
+	text-align: center;
+}
+
+.button {
+	display: block;
+	border-radius: 50px;
+	width: 250px;
+	text-align: center;
+	text-decoration: none;
+	background-color: red;
+	color: white;
+	font-size: 56px;
+	padding: 25px;
+	margin-left: 350px;
+
+}
+
+.button:hover {
+	background-color: darkred;
+}
